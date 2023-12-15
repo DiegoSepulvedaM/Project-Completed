@@ -1,0 +1,16 @@
+{
+    "require": {
+        "mercadopago/dx-php": "^2.2.1"
+    },
+
+    "config": {
+
+        "platform-check": false
+        }
+    }
+
+    // TEST_USER_1305986913
+
+    // BSCJg9iUqwdsadsadsadasdadsddsa
+
+    //  <form action="http://localhost:8080/Carrito-De-Compras/thankyou.php?id_venta=<?php echo $_GET['id_venta']?>&metodo=mercado_pago" method="POST">
